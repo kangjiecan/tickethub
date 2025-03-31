@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8Bm2uUvqmlyUhVaWU8ti9oA9okRQKp75duLnYIabgiM=",
+  "Source": "tickethub",
+  "BasePath": "_content/tickethub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
